@@ -1,0 +1,8 @@
+[submodule "frontend"]
+    path = frontend
+    url = git@github.com:T1pSan4ez/laravel-frontend.git
+    ignore = dirty
+[submodule "src"]
+    path = src
+    url = git@github.com:T1pSan4ez/laravel-project.git
+    ignore = dirty

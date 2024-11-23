@@ -1,0 +1,5 @@
+/.idea
+nginx/logs/*
+mysql/*
+frontend/*
+src/*
